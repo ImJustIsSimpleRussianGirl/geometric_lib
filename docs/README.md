@@ -1,3 +1,7 @@
+## Contributor Note
+
+This repository was forked and updated by Дева Кассель as part of a Git lab assignment.
+
 # Math formulas
 ## Area
 - Circle: S = πR²
